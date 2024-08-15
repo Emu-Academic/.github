@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Emu-Academic/.github/blob/main/profile/banner.jpg" height="200">
+  <img src="./banner.png" height="200">
   <h1>Emu-Academic</h1>
   <p>Tech enthusiasts revolutionizing the world!</p>
 </div>
