@@ -5,6 +5,3 @@
 </div>
 
 <br/>
-
-## Our Works
-[Hugging Face](https://huggingface.co/Emu-Academic)  
